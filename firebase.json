@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"yandex-auth-map","appId":"1:345812498783:android:cdd6be780fcbe3dc4b9eea","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"yandex-auth-map","configurations":{"android":"1:345812498783:android:cdd6be780fcbe3dc4b9eea","ios":"1:345812498783:ios:21788677e49056654b9eea"}}}}}}

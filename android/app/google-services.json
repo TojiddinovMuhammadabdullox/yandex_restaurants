@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "345812498783",
+    "project_id": "yandex-auth-map",
+    "storage_bucket": "yandex-auth-map.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345812498783:android:8c541ed4ecdd343f4b9eea",
+        "android_client_info": {
+          "package_name": "com.example.design"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5jVNrRtDZ-aJ1ANmLdGc_hXOv8i1BoR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345812498783:android:1d5d6a0a359f93264b9eea",
+        "android_client_info": {
+          "package_name": "com.example.lesson_16"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5jVNrRtDZ-aJ1ANmLdGc_hXOv8i1BoR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345812498783:android:cdd6be780fcbe3dc4b9eea",
+        "android_client_info": {
+          "package_name": "com.example.restaurant_location"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5jVNrRtDZ-aJ1ANmLdGc_hXOv8i1BoR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
